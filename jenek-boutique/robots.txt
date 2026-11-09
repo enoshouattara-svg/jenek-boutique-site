@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jenek-boutique.netlify.app/sitemap.xml
